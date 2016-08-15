@@ -1,3 +1,3 @@
-# Matlab-practice
-To practice Matlab = 
+# Python Coursera-practice
+To practice Python
 
