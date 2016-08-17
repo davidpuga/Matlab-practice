@@ -14,3 +14,4 @@ for line in handle:
 		num.append(number)
 total = sum(num)
 print total
+print hello
